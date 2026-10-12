@@ -1,2 +1,2 @@
 # ExpenseTracker-
-ExpenseTracker dtails every day
+ExpenseTracker details every day
